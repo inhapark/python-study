@@ -17,9 +17,9 @@ AI 프로그램의 기초가 되는 파이썬의 기초부터 시작하는 공�
 
 [파이썬 03 데이터타입](python_03(0)_datatype.ipynb)
 
-          [3-1 숫자형 데이터타입](python_03(1)_datatype_v2.ipynb)
+ [3-1 숫자형 데이터타입](python_03(1)_datatype_v2.ipynb)
  
-          [3-2 문자형 데이터타입](python_03(2)_datatype.ipynb)
+ [3-2 문자형 데이터타입](python_03(2)_datatype.ipynb)
  
-          [3-3 리스트 데이터타입](python_03(3)_datatype.ipynb)
+[3-3 리스트 데이터타입](python_03(3)_datatype.ipynb)
 
