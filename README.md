@@ -3,25 +3,25 @@ AI 프로그램의 기초가 되는 파이썬의 기초부터 시작하는 공�
 
 (목차)
 
-[파이썬 기초](python_0.ipynb)
+🟧[[파이썬 기초](python_0.ipynb)
 
-[파이썬 01 셸](python_01_shell.ipynb)
+🟧[[파이썬 01 셸](python_01_shell.ipynb)
 ✅셸- 파이썬 명령어를 직접 입력하고 결과를 바로 확인할 수 있는 대화형 환경
 
 ----->이미지요약 = [파이썬 셸 이미지요약](파이썬_01_이미지요약.png)
 
-[파이썬 02 파일](python_02_file.ipynb)
+🟧[[파이썬 02 파일](python_02_file.ipynb)
 ✅파일- 파이썬 언어로 작성된 코드가 담긴 텍스트 파일
 
 ----->이미지요약 = [파이썬 파일 이미지요약](파이썬_02_이미지요약.png)
 
-[파이썬 03 데이터타입](python_03(0)_datatype.ipynb)
+🟧[파이썬 03 데이터타입](python_03(0)_datatype.ipynb)
 
- [3-1 숫자형 데이터타입](python_03(1)_datatype_v2.ipynb)
+✅3-1 숫자형 데이터타입](python_03(1)_datatype_v2.ipynb)
 
  ----->이미지요약 = [파이썬 숫자형 데이터타입 이미지요약](파이썬_03-1_이미지요약.png)
  
- [3-2 문자형 데이터타입](python_03(2)_datatype.ipynb)
+✅3-2 문자형 데이터타입](python_03(2)_datatype.ipynb)
  
-[3-3 리스트 데이터타입](python_03(3)_datatype.ipynb)
+✅3-3 리스트 데이터타입](python_03(3)_datatype.ipynb)
 
